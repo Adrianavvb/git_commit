@@ -2,11 +2,11 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 git status: Este comando se usa para obtener el estado actual del repositorio
 
-git clone:
+git clone: este comando se usa para clonar o copiar dicho repositorio en un nuevo directorio.
 
-git pull:
+git pull: se emplea para extraer y descargar contenido desde un repositorio remoto.
 
-git checkout:
+git checkout:te permite desplazarte entre las ramas creadas por git branch
 
 git log:
 
