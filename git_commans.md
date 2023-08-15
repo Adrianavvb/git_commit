@@ -8,7 +8,7 @@ git pull: se emplea para extraer y descargar contenido desde un repositorio remo
 
 git checkout:te permite desplazarte entre las ramas creadas por git branch
 
-git log:
+git log:Es una herramienta basica para explorar el historial de repositorio
 
 git branch:
 
